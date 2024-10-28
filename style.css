@@ -3,3 +3,13 @@ h4 {
   font-family: arial;
   text-align: center;
 }
+h1 {
+  text-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+h2 {
+  text-color:black;
+  font-family: verdana;
+  text-align: left;
+}
