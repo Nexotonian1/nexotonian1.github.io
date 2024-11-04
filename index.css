@@ -19,13 +19,13 @@
 }
 
 .sidenav a{
-  font-color: white;
+  color: white;
   font-family: Arial, sans-serif;
-  text-align: left;
+  font-size: 15px;
 }
 
 sidenav a:hover{
-  color: blue;
+  color: #1111;
 }
 
 main {
