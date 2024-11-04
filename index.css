@@ -24,11 +24,11 @@
   text-align: left;
 }
 
-.sidenav a:hover{
+sidenav a:hover{
   color: blue;
 }
 
-.main {
+main {
   margin-left: 140px;
 }
 h4 {
