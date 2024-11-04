@@ -1,5 +1,5 @@
 .head {
-  background
+  background-image: url=("download (42).jpeg");
 }
 
 .body {
@@ -8,7 +8,7 @@
   background-size: cover;
 }
 
-.sidenav {
+#sidenav {
   height: 100%;
   background-color: black;
   width: 140px;
@@ -18,17 +18,17 @@
   padding-top: 20px;
 }
 
-.sidenav a{
+#sidenav a{
   color: white;
   font-family: Arial, sans-serif;
   font-size: 15px;
 }
 
-sidenav a:hover{
+#sidenav a:hover{
   color: #1111;
 }
 
-main {
+#main {
   margin-left: 140px;
 }
 h4 {
