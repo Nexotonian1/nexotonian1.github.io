@@ -1,29 +1,48 @@
 .head {
   background
 }
+
 .body {
   background-repeat: no-repeat;
   background-color: #9fc5e8;
   background-size: cover;
 }
+
 .sidenav {
+  height: 100%;
   background-color: black;
-  width: 160px;
+  width: 140px;
   position: fixed;
   z-index: 1;
   overflow-x: hidden;
   padding-top: 20px;
+}
+
+.sidenav a{
+  font-color: white;
+  font-family: Arial, sans-serif;
+  text-align: left;
+}
+
+.sidenav a:hover{
+  color: blue;
+}
+
+.main {
+  margin-left: 140px;
 }
 h4 {
   text-color: white;
   font-family: arial;
   text-align: center;
 }
+
 h1 {
   text-color: black;
   font-family: verdana;
   text-align: center;
 }
+
 h2 {
   text-color:black;
   font-family: verdana;
