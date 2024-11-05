@@ -35,12 +35,10 @@
 }
 
 .footer {
-  font-family: Verdana;
-  font-color: black;
-  background-color: yellow;
+  font-family: Arial, sans-serif;
+  font-color: #000000;
+  background-color: black;
   background-image: url= ('download (42).jpeg');
   background-repeat: no;
-  margin-left: 160px;
   text-align: center;
-  padding: 0px 10px;
 }
