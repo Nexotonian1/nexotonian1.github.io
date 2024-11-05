@@ -1,50 +1,27 @@
-.head {
-  background-image: url=("download (42).jpeg");
-}
-
-.body {
-  background-repeat: no-repeat;
-  background-color: #9fc5e8;
-  background-size: cover;
-}
-
-#sidenav {
-  height: 100%;
-  background-color: black;
-  width: 140px;
+.sidenav {
+  width: 160px;
   position: fixed;
   z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
 }
 
-#sidenav a{
-  color: white;
-  font-family: Arial, sans-serif;
-  font-size: 15px;
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
 }
 
-#sidenav a:hover{
-  color: #1111;
+.sidenav a:hover {
+  color: #f1f1f1;
 }
 
-#main {
-  margin-left: 140px;
-}
-h4 {
-  text-color: white;
-  font-family: arial;
-  text-align: center;
-}
-
-h1 {
-  text-color: black;
-  font-family: verdana;
-  text-align: center;
-}
-
-h2 {
-  text-color:black;
-  font-family: verdana;
-  text-align: left;
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
 }
