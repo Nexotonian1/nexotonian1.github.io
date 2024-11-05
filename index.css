@@ -22,7 +22,23 @@
 }
 
 .main {
-  text-align: center;
+  font-fmaily: Arial, sans-serif;
+  font-color: white;
+  background-color: black;
+  background-image: download (41).jpeg;
+  background-repeat: no;
   margin-left: 160px;
+  text-align:center;
+  padding: 0px 10px;
+}
+
+.footer {
+  font-family: Verdana;
+  font-color: black;
+  background-color: yellow;
+  background-image: download (42).jpeg;
+  background-repeat: no;
+  margin-left: 160px;
+  text-align: center;
   padding: 0px 10px;
 }
