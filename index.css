@@ -1,7 +1,10 @@
-.head {
-  background-image: url('download(41).jpeg');
+.body {
+  background-image: url(download (42).jpeg);
+  background-repeat: no-repeat;
 }
+
 .sidenav {
+  height: 100%;
   width: 160px;
   position: fixed;
   z-index: 1;
@@ -36,9 +39,10 @@
 
 .footer {
   font-family: Arial, sans-serif;
-  font-color: #000000;
+  font-color: #ffffff;
+  text-color: #ffffff;
   background-color: black;
   background-image: url= ('download (42).jpeg');
-  background-repeat: no;
+  background-repeat: no-repeat;
   text-align: center;
 }
