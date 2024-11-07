@@ -27,6 +27,17 @@
   color: #f1f1f1;
 }
 
+.topAd a {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  text-color: black
+}
+
+.topAd a:hover {
+  font-color: blue;
+}
+
 .main {
   font-fmaily: Arial, sans-serif;
   font-color: white;
