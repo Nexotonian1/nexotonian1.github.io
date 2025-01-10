@@ -1,6 +1,8 @@
 .body {
-  background-image: url(download (42).jpeg);
+  background-image: url(download (44).jpeg);
   background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 .sidenav {
