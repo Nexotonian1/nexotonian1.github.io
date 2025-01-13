@@ -1,8 +1,8 @@
 .body {
-  background-image: url'(download (44).jpeg)';
+  background-image: url(download (44).jpeg);
   background-repeat: no-repeat;
   background-size: cover;
-  
+  background-color: blue;
 }
 
 .sidenav {
