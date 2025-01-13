@@ -3,6 +3,7 @@
   font-family: arial, sans-serif;
 }
 .sidenav {
+  text-align: right;
   height: 100%;
   width: 160px;
   position: fixed;
