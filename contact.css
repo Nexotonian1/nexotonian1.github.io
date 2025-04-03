@@ -3,7 +3,6 @@
   font-family: arial, sans-serif;
 }
 .sidenav {
-  text-align: right;
   height: 100%;
   width: 160px;
   position: fixed;
@@ -25,4 +24,15 @@
 
 .sidenav a:hover {
   color: #f1f1f1;
+}
+
+.topAd a {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  text-color: black
+}
+
+.topAd a:hover {
+  font-color: blue;
 }
