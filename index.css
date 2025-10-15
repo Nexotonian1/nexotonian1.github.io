@@ -33,16 +33,16 @@
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  text-color: black
+  color: black
 }
 
 .topAd a:hover {
-  font-color: blue;
+  color: blue;
 }
 
 .main {
-  font-fmaily: Arial, sans-serif;
-  font-color: white;
+  font-family: Arial, sans-serif;
+  color: white;
   background-image: href= ('download (41).jpeg');
   background-repeat: no;
   margin-left: 160px;
@@ -52,11 +52,11 @@
 
 .footer {
   font-family: Arial, sans-serif;
-  text-color: white;
+  color: white;
   background-color: black;
   background-image: url= ('download (42).jpeg');
   background-repeat: no-repeat;
   text-align: center;
-  z-index: 1;
+  z-index: 2;
   padding: 0px 10px;
 }
