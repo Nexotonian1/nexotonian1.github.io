@@ -1,0 +1,14 @@
+h3 {
+    color: black;
+    font-family: verdana;
+    padding: 0px, 20px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: arial;
+    padding: 0px, 20px;
+    text-align: center;
+    background-color: blue;
+}
