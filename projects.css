@@ -1,3 +1,17 @@
+p {
+    color: black;
+    font-family: verdana;
+    padding: 0px, 20px;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-family: verdana;
+    padding: 0px, 20px;
+    text-align: center;
+}
+
 h3 {
     color: black;
     font-family: verdana;
@@ -5,10 +19,14 @@ h3 {
     text-align: center;
 }
 
-p {
+a {
     color: black;
     font-family: arial;
     padding: 0px, 20px;
     text-align: center;
-    background-color: blue;
+}
+
+a:hover {
+    color: aqua;
+    font-family: arial;
 }
