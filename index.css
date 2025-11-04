@@ -5,6 +5,12 @@
   background-color: blue;
 }
 
+.title {
+  text-align: center;
+  color: black;
+  font-family: arial;
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
